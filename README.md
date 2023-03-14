@@ -4,8 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/LuanODias/Orgs?color=green&style=for-the-badge)
-![GitHub Downloads](https://img.shields.io/github/downloads/LuanODias/Orgs/total?style=for-the-badge)
-
+![Github count files](https://img.shields.io/github/directory-file-count/LuanODias/Orgs?style=for-the-badge)
 
 
 
