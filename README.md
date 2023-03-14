@@ -5,10 +5,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/LuanODias/Orgs?color=green&style=for-the-badge)
 ![GitHub Downloads](https://img.shields.io/github/downloads/LuanODias/Orgs/total?style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
-![Orgs cesta](https://user-images.githubusercontent.com/55639421/225161243-c3704324-8264-4338-83f6-db1d8d57ca5c.jpeg)
+
+
+![Orgs cesta](https://user-images.githubusercontent.com/55639421/225163004-ff6fad8e-6c2b-47cc-bd44-42cdc07c257e.jpeg)
 
 
 
