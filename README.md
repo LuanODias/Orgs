@@ -1,6 +1,6 @@
-# Orgs 🍎
+# Orgs-Cesta 🍎
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<h2>Cesta de produtos da Orgs(E-commerce de frutas, verduras e legumes), projeto criado para o estudo de design patterns e mocks no react-native<h2/>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/LuanODias/Orgs?color=green&style=for-the-badge)
@@ -21,9 +21,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você possuí `Celular com Expo Go` instalado ou `Emulador android ou IOS`
 * Você tem uma máquina `Windows / Linux / Mac`. 
 
-## 🚀 Instalando o Orgs
+## 🚀 Instalando o Orgs-Cesta
 
-Para instalar o Orgs, siga estas etapas:
+Para instalar o Orgs-Cesta, siga estas etapas:
 
 Baixe o projeto em sua máquina e selecione um diretório para o projeto
 
@@ -32,9 +32,9 @@ Instale as dependências do projeto: No terminal, execute o seguinte comando par
 ```
 npm install
 ```
-## ☕ Usando o Orgs
+## ☕ Usando o Orgs-Cesta
 
-Para usar o Orgs, siga estas etapas:
+Para usar o Orgs-Cesta, siga estas etapas:
 
 Acesse o diretório do projeto instalado em sua máquina e utilize o comando:
 ```
@@ -68,4 +68,4 @@ Agradecemos às seguintes pessoas e empresas que contribuíram para este projeto
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#Orgs-Cesta)<br>
