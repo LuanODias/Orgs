@@ -1,6 +1,7 @@
 # Orgs-Cesta 🍎
 
 <h2>Cesta de produtos da Orgs(E-commerce de frutas, verduras e legumes), projeto criado para o estudo de design patterns e mocks no react-native<h2/>
+<br>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/LuanODias/Orgs?color=green&style=for-the-badge)
@@ -67,5 +68,3 @@ Agradecemos às seguintes pessoas e empresas que contribuíram para este projeto
     </td>
   </tr>
 </table>
-
-[⬆ Voltar ao topo](#Orgs-Cesta)<br>
