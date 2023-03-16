@@ -19,7 +19,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente de `Node.js(v12.13.0 ou superior)`
 * Você instalou a versão mais recente de `Expo CLI`
-* Você possuí `Celular com Expo Go` instalado ou `Emulador android ou IOS`
+* Você possui `Celular com Expo Go` instalado ou `Emulador android ou IOS`
 * Você tem uma máquina `Windows / Linux / Mac`. 
 
 ## 🚀 Instalando o Orgs-Cesta
